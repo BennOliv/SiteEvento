@@ -7,7 +7,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring>5.2.5.RELEASE</spring>
-		<spring.security>5.3.1.RELEASE</spring.security>
+		<spring.security>5.3.9.RELEASE</spring.security>
 	</properties>
   <dependencies>
 	<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
