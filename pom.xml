@@ -6,7 +6,7 @@
   <packaging>war</packaging>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring>5.2.5.RELEASE</spring>
+		<spring>5.3.18</spring>
 		<spring.security>5.3.1.RELEASE</spring.security>
 	</properties>
   <dependencies>
